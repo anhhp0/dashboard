@@ -63,8 +63,8 @@ const Performance = () => {
   return (
     <Box m="1.5rem 2.5rem">
       <Header
-        title="PERFORMANCE"
-        subtitle="Track your Affiliate Sales Performance Here"
+        title="HIỆU SUẤT"
+        subtitle="Theo dõi hiệu suất Affiliate ở đây"
       />
       <Box
         mt="40px"

@@ -115,7 +115,7 @@ const Dashboard = () => {
         />
         <StatBox
           title="Doanh số hôm nay"
-          value={data && data.todayStats.totalSales}
+          value={data && data?.todayStats?.totalSales}
           increase="+21%"
           description="so với hôm qua"
           icon={
@@ -135,7 +135,7 @@ const Dashboard = () => {
         </Box>
         <StatBox
           title="Doanh số tháng"
-          value={data && data.thisMonthStats.totalSales}
+          value={data && data?.thisMonthStats?.totalSales}
           increase="+5%"
           description="so với tháng trước"
           icon={

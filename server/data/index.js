@@ -18044,9 +18044,9 @@ export const dataUser = [
     name: "HUCE",
     email: "swelbeck12@ycombinator.com",
     password: "RSjzmAjnq",
-    city: "Sangoleng",
+    city: "Hanoi",
     state: null,
-    country: "ID",
+    country: "VN",
     occupation: "HUCE",
     phoneNumber: "7036619983",
     transactions: [
